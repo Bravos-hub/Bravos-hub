@@ -8,7 +8,6 @@ I build reliable, user-focused software and enjoy turning complex problems into 
 
 ## 📈 Contribution Streaks & Analytics
 
-> These stats update automatically based on GitHub activity.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bravos-hub&theme=transparent&hide_border=true" alt="GitHub Streak" />
@@ -39,21 +38,21 @@ I build reliable, user-focused software and enjoy turning complex problems into 
 
 ## 🚀 Projects
 
-Below is a curated list of my featured projects. Each includes a quick summary and a link to the repository or live demo.
+Below is a curated list of my current featured projects. Each includes a quick summary and a link to the repository or live demo.
 
 | Project | Description | Link |
 | --- | --- | --- |
 | **EVzone ML Service** | The EVzone ML Service is a standalone Python/FastAPI microservice that adds predictive maintenance and analytics to the EVzone platform. It addresses Module 3 (Diagnostics & Maintenance Tools) from the platform requirements, specifically the "Predictive maintenance (AI-enabled)" component identified in Phase 2 of the completion plan. | https://github.com/Bravos-hub/evzone-ml-service |
 | **EVzone Portal** | A role-based admin/ops portal built with Vite + React + TypeScript, using Tailwind CSS for styling and mocked data to simulate real analytics dashboards (Admin, Operator, Owners, Site Owners, Station roles, Technicians). | https://github.com/Bravos-hub/evzone-hub |
-| **Enterprose OCPP server** | A secure WebSocket gateway for OCPP (Open Charge Point Protocol) built with NestJS and TypeScript. | https://github.com/Bravos-hub/ocpp-gateway |
+| **Enterprise OCPP server** | A secure WebSocket gateway for OCPP (Open Charge Point Protocol) built with NestJS and TypeScript. | https://github.com/Bravos-hub/ocpp-gateway |
 
 ---
 
 ## 📫 Contact
 
 - GitHub: https://github.com/Bravos-hub
-- LinkedIn: https://www.linkedin.com/in/your-handle
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/brave-olimi-199638380/
+- Email: braveolimi19@gmail.com
 
 ---
 
