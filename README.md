@@ -43,11 +43,9 @@ Below is a curated list of my featured projects. Each includes a quick summary a
 
 | Project | Description | Link |
 | --- | --- | --- |
-| **Project Name 1** | Short description of what it does and the impact it delivers. | https://github.com/Bravos-hub/project-1 |
-| **Project Name 2** | Short description of what it does and the problem it solves. | https://github.com/Bravos-hub/project-2 |
-| **Project Name 3** | Short description of key features and technologies used. | https://github.com/Bravos-hub/project-3 |
-
-> Tip: Replace the placeholders above with your real projects and links.
+| **EVzone ML Service** | The EVzone ML Service is a standalone Python/FastAPI microservice that adds predictive maintenance and analytics to the EVzone platform. It addresses Module 3 (Diagnostics & Maintenance Tools) from the platform requirements, specifically the "Predictive maintenance (AI-enabled)" component identified in Phase 2 of the completion plan. | https://github.com/Bravos-hub/evzone-ml-service |
+| **EVzone Portal** | A role-based admin/ops portal built with Vite + React + TypeScript, using Tailwind CSS for styling and mocked data to simulate real analytics dashboards (Admin, Operator, Owners, Site Owners, Station roles, Technicians). | https://github.com/Bravos-hub/evzone-hub |
+| **Enterprose OCPP server** | A secure WebSocket gateway for OCPP (Open Charge Point Protocol) built with NestJS and TypeScript. | https://github.com/Bravos-hub/ocpp-gateway |
 
 ---
 
