@@ -1,4 +1,4 @@
-# Bravos-hub
+# Bravos Olimi
 
 **Full-Stack Developer | Open Source Enthusiast | Lifelong Learner**
 
