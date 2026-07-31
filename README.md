@@ -36,16 +36,7 @@ I build reliable, user-focused software and enjoy turning complex problems into 
 
 ---
 
-## 🚀 Projects
-
-Below is a curated list of my current featured projects. Each includes a quick summary and a link to the repository or live demo.
-
-| Project | Description | Link |
-| --- | --- | --- |
-| **EVzone ML Service** | The EVzone ML Service is a standalone Python/FastAPI microservice that adds predictive maintenance and analytics to the EVzone platform. It addresses Module 3 (Diagnostics & Maintenance Tools) from the platform requirements, specifically the "Predictive maintenance (AI-enabled)" component identified in Phase 2 of the completion plan. | https://github.com/Bravos-hub/evzone-ml-service |
-| **EVzone Portal** | A role-based admin/ops portal built with Vite + React + TypeScript, using Tailwind CSS for styling and mocked data to simulate real analytics dashboards (Admin, Operator, Owners, Site Owners, Station roles, Technicians). | https://github.com/Bravos-hub/evzone-hub |
-| **Enterprise OCPP server** | A secure WebSocket gateway for OCPP (Open Charge Point Protocol) built with NestJS and TypeScript. | https://github.com/Bravos-hub/ocpp-gateway |
-
+"I built Principal Component Analysis from scratch using eigendecomposition, applied it to CHIRPS satellite rainfall data for 15 Ugandan districts (2015–2023), and predicted maize yield using linear and non-linear models. The analysis revealed that MAM rainfall (long rains) is the dominant predictor of yield (r = 0.806), while PCA uncovered two latent climate dimensions: Total Wetness and Rainfall Variability. District-level residuals highlighted the importance of soil quality and agricultural inputs beyond rainfall alone."
 ---
 
 ## 📫 Contact
